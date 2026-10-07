@@ -22,3 +22,5 @@ Explore a dark magical world, fight enemies, cast spells, discover items, face b
 Download `harry-potter.html` and open it in a modern desktop browser.
 
 > **Disclaimer:** This is an unofficial fan-made project created for experimentation/entertainment. Harry Potter and related properties belong to their respective rights holders.
+
+also this project file was too large to be posted in github D: so here is the mediafire link-https://www.mediafire.com/file/28a9fpl08cr18j4/harry-potter.html/file
